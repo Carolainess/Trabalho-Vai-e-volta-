@@ -329,11 +329,10 @@ A aplicação está preparada para rodar em uma plataforma de nuvem (PaaS) como 
 - O upload só aceita imagens de até 5 MB, e cada arquivo é salvo com um nome aleatório.
 - Depois do login, o site só redireciona para endereços dele mesmo.
 
-## 11. Autoras
+## 11. Autora
 
 - Carolaine Silva Serrano — Ciência da Computação, FEMA
-- *[nome da dupla]* — Ciência da Computação, FEMA
 
----
+
 
 Projeto acadêmico · FEMA · Assis/SP · 2026
